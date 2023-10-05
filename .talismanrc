@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: TP1/simu_mvt_rect.ipynb
+  checksum: 01c4b04be015441f1a66c39e47c42dd608742b21afd409c6ef8dc1ff1068c1ef
+version: ""
